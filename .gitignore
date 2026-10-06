@@ -1,1 +1,7 @@
 **/.env
+**/08_backups
+**/data/
+**/volumes/
+*.log
+.vscode/
+.idea/
